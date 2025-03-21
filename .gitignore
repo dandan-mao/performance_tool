@@ -1,5 +1,9 @@
 # 排除下列文件夹
 dist/
 build/
+.idea/
+common/logs/
+test_case/logs/
+test_tools/logs/
 # 排除所有 __pycache__ 文件夹
 __pycache__/
