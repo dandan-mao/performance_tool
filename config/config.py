@@ -1,7 +1,7 @@
 # HWINFO日志路径
-# HWINFO_LOG_PATH = r"C:\Users\Bruce.Si\Documents"
+HWINFO_LOG_PATH = r"C:\Users\Bruce.Si\Documents\whinfo.CSV"
 # HWINFO日志文件名
-# LOG_NAME = "whinfo.txt"
+LOG_NAME = "whinfo.CSV"
 # GPU-Z日志文件名
 # LOG_NAME = "GPU-Z Sensor Log.txt"
 
